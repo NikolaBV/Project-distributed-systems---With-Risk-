@@ -1,3 +1,38 @@
+# Факултетен номер
+* 2301321029
+
+# Стартиране на проекта 
+
+```console
+cd nextjs-blog
+```
+
+```console
+npm install
+```
+
+```console
+npm run dev
+```
+
+```console
+npm install
+```
+
+```console
+cd studio-blog
+```
+
+```console
+npm install
+```
+
+```console
+npm run dev
+```
+
+* За да работи проекта също трябва да се добави .env файл, който не мога да кача в публично репозитори защото съдържа private key-ове за supabase и vercel
+
 # Distributed systems
 
 # Документация на API за Блог система
